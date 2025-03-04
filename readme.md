@@ -29,7 +29,7 @@ The system consists of several components:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/resume-ranking-api.git
+git clone https://github.com/shivshivainamahstubhiyam/resume-ranking-api.git
 cd resume-ranking-api
 ```
 
