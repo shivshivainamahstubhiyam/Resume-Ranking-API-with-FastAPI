@@ -1,0 +1,10 @@
+# OpenAI API Key
+OPENAI_API_KEY=your-api-key-here
+
+# Optional: Alternative LLM Configuration
+# ANTHROPIC_API_KEY=your-anthropic-key-here
+# GOOGLE_API_KEY=your-google-key-here
+
+# Application Settings
+# PORT=8000
+# LOG_LEVEL=info
